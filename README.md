@@ -2,7 +2,7 @@
 -  ⚡Working as a Full Stack Developer
 - 🌱 I’m currently learning  Web Development
 - ⚡ In my free time I like to read
-- 📫 How to reach me ...
+- 
 
 <!---
 ranjantiwarii/ranjantiwarii is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
